@@ -2,7 +2,7 @@
 <html>
 <head>
   <h1>MAXś Shop</h1>
-  <!-- <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 <script>
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function() {
@@ -10,7 +10,7 @@
       appId: "8a571276-0e18-46d5-bbe4-b1a3a85b9622",
     });
   });
-</script> -->
+</script>
 </head>
 <body>
 
