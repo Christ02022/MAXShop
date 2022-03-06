@@ -2,7 +2,7 @@
 <html>
 <head>
   <h1>MAXś Shop</h1>
-  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+ <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 <script>
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function() {
